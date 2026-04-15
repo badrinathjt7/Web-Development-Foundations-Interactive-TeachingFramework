@@ -12,7 +12,7 @@
 ## 🚀 Live Interactive Demo
 
 👉 [https://badrinathjt7.github.io/webdev-demo/
-](https://badrinathjt7.github.io/webdev-demo/)
+](https://badrinathjt7.github.io/Web Development Foundations — Interactive Teaching Framework/)
 
 Runs fully in the browser. No installation required.
 
