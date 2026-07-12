@@ -97,7 +97,6 @@ Once JavaScript gets complex, React's component model starts to make sense. This
 **Layer 5 — Full Stack: Data Flow & APIs**
 The final layer ties everything together. How does a button click on your screen eventually fetch data from a database on a server? We walk through the full request-response cycle in a way that's visual and easy to follow.
 
-> 📸 _[Add a screenshot showing the layered navigation or section headers here]_
 
 ---
 
