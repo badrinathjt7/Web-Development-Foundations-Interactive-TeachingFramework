@@ -42,8 +42,6 @@ So I built a single self-contained HTML file that doubles as a full teaching fra
 
 No login. No installation. Just open and start learning. Works on any browser.
 
-> 📸 _[Add a screenshot of the demo landing screen here]_
-
 ---
 
 ## What This Actually Teaches
