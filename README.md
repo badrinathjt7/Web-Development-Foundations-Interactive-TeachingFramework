@@ -79,7 +79,7 @@ I feel this approach works much better than jumping straight to code. People lea
 
 ### The 6 Layers Covered
 
-**Layer 0 — Design Foundations**
+**Layer 0 — Design Foundations:**
 Before a single line of code, we talk about design psychology. Why do certain color choices and layouts make users feel safe or confused? Why does spacing matter? This was the layer I was most nervous about including, but it ended up being the one people connected with the most — because it's immediately relatable.
 
 **Layer 1 — HTML: Structure**
