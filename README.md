@@ -1,14 +1,3 @@
-# 🎓 Web Development Foundations — Interactive Teaching Framework
-
-![HTML5](https://img.shields.io/badge/HTML5-Structure-orange)
-![CSS3](https://img.shields.io/badge/CSS3-Design-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Logic-yellow)
-![React](https://img.shields.io/badge/React-Components-61DAFB)
-![FullStack](https://img.shields.io/badge/Architecture-Full--Stack-purple)
-![Live Demo](https://img.shields.io/badge/Live-GitHub%20Pages-brightgreen)
-
----
-
 # 🎓 Web Development Foundations — An Interactive Teaching Framework
 
 > I built this because I had 30 minutes to explain web development to a room full of beginners — and I didn't want to just throw slides at them. I wanted something they could actually *touch* and *break* and learn from.
