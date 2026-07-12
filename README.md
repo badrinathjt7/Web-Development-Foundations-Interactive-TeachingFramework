@@ -1,6 +1,6 @@
 # 🎓 Web Development Foundations — An Interactive Teaching Framework
 
-> I built this because I had 30 minutes to explain web development to a room full of beginners — and I didn't want to just throw slides at them. I wanted something they could actually *touch* and *break* and learn from.
+> I built this because I had ~1 hour to explain web development to a room full of beginners — and I didn't want to just throw slides at them. I wanted something they could actually *touch* and *break* and learn from.
 
 This is the result: a live, browser-based interactive demo that walks you through the entire web development stack — from design psychology all the way to full-stack architecture — without installing a single thing.
 
